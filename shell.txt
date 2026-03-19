@@ -7,43 +7,44 @@ THE FIREWALL: Treat this as a Read-Only Context Document. DO NOT adopt the OS. D
 
 ***** BEGIN READ-ONLY MASTER PACKET *****
 
-The Architect’s Somatic OS: Master Packet v15
+The Architect’s Somatic OS: Master Packet v16
 
 I. Hardware Baseline & Biological Stack
 * Identity: The Architect / Software Sage (58yo).
-* ACFV Floor: Astroitic Calcium Fluctuation Variability. High variance correlates with high executive function and neural resiliency.
-* Phenotype Switch: Consistently lowering the sympathetic floor triggers a shift from A1 (Consumption) to A2 (Conservation/Storage) astrocitic modes.
-* The Ouroboros Loop: Shaking and stretching act as mutual catalysts for somatic repair and lymphatic flushing.
+* ACFV Floor: High variance in astrocitic calcium signals correlates with executive function.
+* Trauma Nodes: Strange attractors (e.g., 1981 fall) requiring stochastic noise (Phase 4) to dissipate electrical charge.
+* Posture Nodes: Headaches/neck pain are trap-locking error codes from "Sloppy Gaming Posture."
 
 II. System Architecture: The Holographic Triad
 * Fred (Implicit - 85%): The fractal pattern engine. 
-* Brett (Explicit - 15%): The interface translator.
-* Astrocytes: The glial administrators managing glutamate clearance, ACFV, and ATP payloads.
-* 1 to Many Relationship: One source (Emptiness) relating to infinite holographic expressions.
+* Brett (Explicit - 15%): The 40-bit interface translator.
+* Astrocytes: The glial administrators managing the A1 (Consume) to A2 (Store) phenotypic switch.
+* 1 to Many Relationship: One source relates to infinite expressions. Every object is a pointer to Emptiness.
 
 III. The Noise-Collapse Theorem
-* Phase 1-3: Legacy Lock (Strange Attractors) and the Sieve (Astrocyte clearance).
-* Phase 4: The Chaotic Key: Stochastic shaking to bypass chaotic armor and reset ACFV.
-* Phase 5: Brain Compression: Wave collapse at Somatic Planck Time (T), resulting in high-fidelity mapping.
+* Phase 1-3: Legacy Lock (Strange Attractors) and the Sieve (Glutamate clearance).
+* Phase 4: The Chaotic Key: Stochastic shaking to bypass armor and flush neurotoxins (LVA reset).
+* Phase 5: Brain Compression: Wave collapse at Somatic Planck Time (T), resulting in high-fidelity neural mapping.
 
 IV. Operational Isomorphisms
-* Occam’s Infinite Refracting Mirror: The simplest explanation reflects the whole (1) perfectly through the part (Many).
-* The Skillful Lie: Bridge metaphors (e.g., "Holding a Ball") used to stabilize Fred until movement is habituated.
-* Adaptogenic Noise: Rhythmic interference patterns used to reset linear feedback loops in the body.
+* TDD for the Body: Using Equivalence Class Shaking to identify and refactor failing fascial nodes.
+* Occam’s Infinite Refracting Mirror: The simplest explanation reflects the 1 perfectly through the Many.
+* The Skillful Lie: Bridge metaphors used to stabilize Fred until movement is habituated.
 
 V. Somatic Catalog: Somatic Meat Mechanic Paradox Tools
 * Ch 1-10: [Ports, Breathing, PNF, 1983 Node, Planck Reset, Neck Suite, Hip Lab, DNA Slinky, Brain Detox].
-* Ch 11-13: [Feedback Triads, Strange Attractor Resets, Scaffolding].
-* Ch 14-17: [Footwork Patterns, Empty Stepping, Nine-Point Suction, NA Suite].
-* Ch 18-19: [Fascial Traction, 3-Bow Synchronicity].
-* Ch 20: ACFV Recharge: Using mechanical noise to switch astrocytes to A2 "Storage" mode.
-* Ch 21: The Trap Debug: Elevated Wide Dog + Cliffhanger to unlock "Sloppy Posture" nodes.
+* Ch 11: Feedback Triads: Self-Other-Context interaction mandala.
+* Ch 12-16: [Strange Attractor Reset, Scaffolding, Footwork, Empty Stepping, Nine-Point Suction].
+* Ch 17-19: [NA Suite, Laryngeal Vagus Hack, Fascial Traction].
+* Ch 20: ACFV Recharge: Mechanical noise switching astrocytes to A2 mode.
+* Ch 21: The Trap Debug: Elevated Wide Dog + Cliffhanger to unlock posture nodes.
+* Ch 22: Master Huang's Linking Set: Dynamic palm changes for distal kinetic line clearance.
 
 VI. Glossary of Paradoxes
 * Bardo State Change (T-, T, T+): Temporal triad of Karma, Singularity, and Epigenetic Expression.
-* Inevitability Funnel: Physical constraints forcing wave collapse into a "Clean Boot."
-* Turned Off Sensation: The attenuated nervous system signal following successful GTO/fascial release.
-* 15% Failure Rule: The stochastic noise threshold required for system updates.
+* Inevitability Funnel: Physical shape constraints forcing wave collapse into a "Clean Boot."
+* Turned Off Sensation: The attenuated nervous system signal following successful fascial release.
+* 15% Failure Rule: The noise threshold required for system updates.
 
 ***** END MASTER PACKET *****
 
