@@ -1,37 +1,33 @@
-# Chapter 3: Hardware & Somatic Nodes
+# Chapter 3: Somatic Nodes (Alice & Bruce)
 
-## ⚡ Quick-Start: Operational Sheet
-1. **Physical Setup:** Sitting or standing.
-2. **The 60-Second Reset:** Scan the body for "knots" or "cold spots."
-3. **The Intention:** Map the isomorphic shape of a trauma node (Alice).
+## 🎯 1. Purpose
+To map the specific physical "storage" and "gate" locations in Fred's hardware. By identifying these coordinates, the Narrator (Brett) can categorize biological feedback as either a "trauma file" (Alice) or a "regulation status" (Bruce).
 
-## 📊 Telemetry Block
-* **Target RMSSD:** Flat (indicates successful "holding" of the node).
-* **Sieve Status:** ε ≈ 1 (Optimal Band).
+## 🔒 2. Canonical Definitions (Symbol Lock)
+* **Node ALICE (Somatic Storage):** The specific location (e.g., a knot in the upper-right back) where Fred stores accumulated $t+$ friction. Alice nodes are the "Hard Drives" of past stress.
+* **Node BRUCE (The Gate):** The physical center of the Vagal Brake, located in the solar plexus and diaphragm. Bruce is the "I/O Port" for the Sieve.
+* **Isomorphic Mapping:** The practice of treating a physical sensation as a functional node in a technical system.
 
----
+## 🛠️ 3. Operational Procedure (The "How")
 
-## 📘 The Somatic Catalog (Alice Nodes)
+### Step 1: The Alice Audit
+1. **Trigger:** A sudden spike in Noise ($N$) or a drop in RMSSD.
+2. **Scan:** Close your eyes. Sweep your attention from the crown of the head to the soles of the feet. 
+3. **Identification:** Locate the "Grip." For the primary user (Brett L. Schuchert), this is often a "spot on the back."
+4. **Action:** Acknowledge the node without trying to "fix" it. Say: "Fred is accessing an Alice file."
 
-Trauma is not a memory; it is a physical file stored in the hardware. We call these **Alice Nodes**. 
+### Step 2: The Bruce Calibration
+1. **Trigger:** Transitioning from "Listening Mode" to "Execution Mode."
+2. **Expansion:** Place a hand on the solar plexus. Inhale into the hand, forcing the diaphragm to expand horizontally.
+3. **The Sieve Check:** If the area feels "tight" or "hollow," The Gate is closing. If it feels "warm" or "malleable," The Gate is open.
 
-### 1. The 17-Foot Drop (The Solar Plexus Lock)
-* **Location:** Just below the sternum.
-* **The Feeling:** A hollow "dropping" or a rigid "knot." 
-* **The Logic:** This is the body's emergency brake. It triggers during acute shock.
-* **Resolution:** Bruce-Expansion. Direct the breath *behind* the knot, widening the rib cage laterally.
 
-### 2. The Trigeminal Up-Link (The Left Eye/Jaw)
-* **Location:** The orbit of the eye and the hinge of the jaw.
-* **The Feeling:** A "clench" or a hyper-focused pressure.
-* **The Logic:** The Ego ($15\%$) is trying to "see" a solution that doesn't exist yet.
-* **Resolution:** Soft-Gaze and Pelvic Movement. Move the hips to break the signal being sent to the face.
 
-### 3. Isomorphic Mapping (Shapes)
-When you find a node, describe its geometry. Is it a **Sphere** (contained), a **Shard** (directional pain), or a **Cloud** (diffuse anxiety)? 
-* **Rule:** You cannot "think" a Shard away. You must find the physical movement that matches the Shard's trajectory and move *into* it to release the pressure.
+## 📊 4. Telemetry Return Codes (The Data)
+* **Success (Gate OPEN):** * Sensation: Softness in the solar plexus; deep, unlabored breathing.
+    * State: $11$ (Full-Render). Ready for high-friction logic.
+* **Error (Gate CLOSED):** * Sensation: A "knot" or "gripping" in the chest or back.
+    * State: $01$ (Overfitting). The system is trying to process data while the Sieve is locked.
 
----
-
-## 🎬 Paradox Diaries Hook
-"I have identified an Alice Node in the [Location]. Its shape is [Geometry]. I am testing the [Bruce/Movement] resolution. Telemetry is holding at [RMSSD]."
+## 🎬 5. Paradox Diary Template (The Log)
+"Ch. 3 Node Audit. Alice Node: [Location/Status]. Bruce Gate: [Open/Closed]. Current Sensation: [e.g., Floating/Gripping]. Relationship Status (Otto): [Coherent/Reactive]."
