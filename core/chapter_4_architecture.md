@@ -1,33 +1,33 @@
-# Chapter 4: Core Architecture (The Triadic Engine)
+# Chapter 4: The Triadic Engine (Fred, Brett, and Otto)
 
 ## ⚡ Quick-Start: Operational Sheet
-1. **Physical Setup:** Pen and paper ready.
-2. **The 60-Second Reset:** Identify which "voice" is loudest right now.
-3. **The Intention:** Synchronize the three internal nodes.
+1. **Physical Setup:** Neutral posture.
+2. **The 60-Second Reset:** Identify the "Voice" currently holding the floor.
+3. **The Intention:** Synchronize System 1 and System 2 through the Relationship.
 
 ---
 
-## 📘 The Triadic Engine + One
+## 📘 The Three Primary Voices
 
-The Meat Unit is not a single "Self." It is a multi-node processing engine.
+The MEAT-UNIT functions through the interaction of three primary units. By grouping the hardware and regulation functions into "Fred," we simplify the cognitive load on the Narrator.
 
-### 1. Alice (The 85% - The Hardware)
-Alice is the body. She manages thermodynamics, heartbeat, and trauma storage. She has no language; she only speaks in **Sensation**. If Alice is "screaming" (pain/anxiety), the rest of the engine must listen or it will crash.
+### 1. FRED: System 1 (The Bio-Unit)
+Fred is the "Hardware" and the "Animal." He is fast, instinctive, and speaks in **Sensation**. Fred manages thermodynamics and survival.
+* **Sub-Node: Alice (Storage):** Specific somatic knots or trauma points.
+* **Sub-Node: Bruce (The Gate):** The physical regulation of the solar plexus and breath.
+* **Operational Rule:** You do not argue with Fred. You provide the physical conditions (Shaking/Wu Chi) for Fred to update his files.
 
-### 2. Brett (The 15% - The Ego/Abstraction)
-Brett is the narrator. He handles logic, coding, and future-planning. Brett is excellent at navigation but terrible at regulation. If Brett tries to "fix" Alice with a story, he creates an infinite loop ($01$ state).
+### 2. BRETT: System 2 (The Logic-Unit)
+Brett is the "Software" and the "Narrator." He is slow, analytical, and speaks in **Symbols**. Brett handles logic, coding, and future-simulation. 
+* **Role:** Interpretation and navigation.
+* **The Glitch:** Brett often tries to "explain" Fred's sensations. This is an invalid cross-talk that generates high noise ($N$).
 
-### 3. Bruce (The Mediator - The Breath/Sieve)
-Bruce is the "Vagal Brake." By expanding the ribs or slowing the breath, Bruce signals to Alice that the environment is safe. This "opens the Sieve," allowing Brett to process data without being overwhelmed by Alice's sensations.
-
-### 4. Otto (The Autopilot)
-The Default Mode Network. Otto takes over when Brett is tired. Otto is great for driving a car or washing dishes, but he is rigid and cannot innovate.
-
-### The $00 \to 11$ Cycle
-* **$00$:** Alice is quiet, Bruce is steady, Brett is silent. (The Void).
-* **$11$:** Alice is activated by work, Bruce is open and breathing, Brett is focused and solving. (Full-Render).
+### 3. OTTO: The Relationship (The Interaction-Unit)
+Otto is the "Operating System" and the "Bridge." He represents the relationship *between* Fred and Brett, as well as the relationship with the outside world.
+* **Sub-Node: Habit:** The autopilot scripts that run when Brett is fatigued.
+* **Role:** Efficiency and social coherence. Otto is the "vibe" or the "flow" created when Fred and Brett are in sync.
 
 ---
 
 ## 🎬 Paradox Diaries Hook
-"Current engine state is [00/01/10/11]. Brett is [Narrative]. Alice is [Sensation]. I am engaging Bruce to [Open/Close] the Sieve."
+"Current state is [00/11]. **Fred** is signaling [Sensation] in the [Location]. **Brett** is trying to narrate it as [Story]. **Otto** is currently [Autopilot/Interactive]. I am using The Gate (Bruce) to clear the noise."
