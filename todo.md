@@ -1,12 +1,5 @@
 # MEAT-UNIT v1.7 Release Backlog
 
-## 📦 Epic 1: Repository Architecture & Ontology (The Refactor)
-*Goal: Reorganize the manual, establish the physical body as the prerequisite, and explicitly define the framework's ontology.*
-- [ ] **Story 1.1: Reorder the Compile Path.** Move from Body to Theory: Chapter 6 -> 4 -> 2 -> 1 -> 3 -> 5.
-- [ ] **Story 1.2: Define Module Boundaries.** Map the newly ordered chapters into a Git-friendly structure: `core/`, `io/`, and `ops/`.
-- [ ] **Story 1.3: Standardize Chapter Formatting.** Every module must include an operational sheet, a metrics block, a Paradox Diaries hook, and Claude's 3-level description (Phenomenology, Proposed Mechanism, Testability/Metaphor).
-- [ ] **Story 1.4: Declare the Ontology.** Add a prologue explicitly stating this is an experiential/phenomenological framework (Path A) that utilizes computational and thermodynamic metaphors, not literal quantum biology.
-
 ## 🛡️ Epic 2: System Safety & Initialization (The Guardrails)
 *Goal: Prevent system overload, dangerous misinterpretation, and derealization for new users.*
 - [ ] **Story 2.1: The 0.0 Gatekeeper.** Add "Before You Open the Hood: Somatic Baseline Check." Three tests (HRV feel, 30s Wu Chi, 10s shake). If the Ego argues, mandate 7 days of Daily Shutdowns first.
