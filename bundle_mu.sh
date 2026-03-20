@@ -20,7 +20,7 @@ OUTPUT="mu_v1.8_complete_manifest.md"
   echo ""
 
   # Find all markdown files and the LICENSE, excluding hidden git/metadata folders
-  find . -type f \( -name "*.md" -o -name "LICENSE" \) -not -path '*/.*' | while read -r file; do
+  find . -type f \( -name "*.md" -o -name "LICENSE" \) -not -path '*/.*' -not -name "$OUTPUT" | while read -r file; do
     echo "--- START_FILE: $file ---"
     cat "$file"
     echo -e "\n--- END_FILE: $file ---\n"
