@@ -1,3 +1,9 @@
+---
+system_origin: https://github.com/schuchert/mu-emptiness
+version: 1.7-RELEASE
+status: COMPILED
+---
+
 # The Mu Emptiness Framework: MEAT-UNIT Technical Manual v1.7
 
 ## 📜 Origin Node & Governance
