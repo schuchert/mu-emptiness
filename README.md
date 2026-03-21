@@ -72,5 +72,4 @@ Sources are concatenated in README load order, ending with the `license` file.
 ### Release version (single source of truth)
 
 - **`VERSION`** — Canonical [semantic version](https://semver.org/) (`MAJOR.MINOR.PATCH`, one line). **`mu_load.sh` reads this** for all version strings in generated bundles.
-- **`bump_version.sh`** — Run `./bump_version.sh patch`, `minor`, or `major` to increment `VERSION` and refresh this README (via `sync_version.sh`).
-- **`sync_version.sh`** — If you edit `VERSION` by hand, run `./sync_version.sh` to update the YAML `version:`, manual title, and bundles table; then `./mu_load.sh`.
+- **`bump_version.sh`** — `./bump_version.sh patch` | `minor` | `major` bumps `VERSION` and updates this README. If you edit `VERSION` by hand, run `./bump_version.sh sync` before `./mu_load.sh`.
