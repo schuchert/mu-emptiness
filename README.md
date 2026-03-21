@@ -1,10 +1,10 @@
 ---
 system_origin: https://github.com/schuchert/mu-emptiness
-version: 2.0-GOLD
+version: "2.0.0"
 status: PRODUCTION-STABLE
 ---
 
-# The Mu Emptiness Framework: MEAT-UNIT Technical Manual v2.0-GOLD
+# The Mu Emptiness Framework: MEAT-UNIT Technical Manual v2.0.0
 
 ## 📜 Origin Node & Governance
 * **Repository Origin:** https://github.com/schuchert/mu-emptiness
@@ -57,3 +57,20 @@ When instructions conflict, apply the following hierarchy:
 * **ops/paradox_diaries.md:** CI/CD Pipeline (Silent & Full Mode Logging).
 * **ops/troubleshooting.md:** Failure Modes & Exit Ramps.
 * **core/appendices.md:** Theoretical Grounding & Visual Architecture.
+
+## 📦 Single-file LLM bundles
+
+From the repository root, run `./mu_load.sh` (or `./bundle_mu.sh`, which calls it). Two files are generated next to the script (and are listed in `.gitignore`):
+
+| File | Use |
+|------|-----|
+| **mu_system_prompt.md** | Canonical document to upload or paste as the system prompt for day-to-day use. |
+| **mu_audit_manifest.md** | Same sources in the same order, plus a sorted repository map and the **v2.0.0 Master Evaluation Prompt** at the end for cross-model consistency checks. |
+
+Sources are concatenated in README load order, ending with the `license` file.
+
+### Release version (single source of truth)
+
+- **`VERSION`** — Canonical [semantic version](https://semver.org/) (`MAJOR.MINOR.PATCH`, one line). **`mu_load.sh` reads this** for all version strings in generated bundles.
+- **`bump_version.sh`** — Run `./bump_version.sh patch`, `minor`, or `major` to increment `VERSION` and refresh this README (via `sync_version.sh`).
+- **`sync_version.sh`** — If you edit `VERSION` by hand, run `./sync_version.sh` to update the YAML `version:`, manual title, and bundles table; then `./mu_load.sh`.
