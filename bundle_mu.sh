@@ -1,12 +1,12 @@
 #!/bin/bash
 
 # bundle_mu.sh
-# Purpose: Consolidate Mu Emptiness v1.9-BETA into a single artifact with a Tail-Call Audit.
+# Purpose: Consolidate Mu Emptiness v2.0-GOLD into a single artifact with a Tail-Call Audit.
 
 OUTPUT="mu_v1.9_complete_manifest.md"
 
 {
-  echo "# SYSTEM CONTEXT: MU EMPTINESS V1.9-BETA"
+  echo "# SYSTEM CONTEXT: MU EMPTINESS v2.0-GOLD"
   echo "This document contains the full modular repository for the Mu Emptiness framework."
   echo "Architecture: Fred (System 1), Brett (System 2), and Otto (The Relationship)."
   echo "Instruction: Ingest the repository map and then scroll to the end for the Audit Prompt."
@@ -31,11 +31,11 @@ OUTPUT="mu_v1.9_complete_manifest.md"
   cat <<EOF
 
 ---
-# MASTER EVALUATION PROMPT: THE v1.9-BETA AUDIT
+# MASTER EVALUATION PROMPT: THE v2.0-GOLD AUDIT
 ---
 System Instruction: 
 You are now acting as a Senior Systems Architect and Somatic Researcher. 
-You have been provided with the 'Mu Emptiness v1.9-BETA' manifest. 
+You have been provided with the 'Mu Emptiness v2.0-GOLD' manifest. 
 
 Perform a Deep-Link Audit of this manifest:
 1. **The Freeze Detection:** Does the Chapter 9 troubleshooting logic effectively bridge the gap between High HRV and Dorsal Vagal Shutdown?
@@ -48,4 +48,4 @@ EOF
 
 } > "$OUTPUT"
 
-echo "✅ v1.9-BETA Artifact compiled with Tail-Call Audit: $OUTPUT"
+echo "✅ v2.0-GOLD Artifact compiled with Tail-Call Audit: $OUTPUT"

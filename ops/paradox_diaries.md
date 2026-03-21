@@ -41,3 +41,15 @@ TELEMETRY: [RMSSD: XXms | HR: XXbpm]
 NODES: [Alice: Status | Bruce: Status]
 NARRATIVE: [One sentence on what Brett is telling himself].
 TAGS: [#Work #Social #Fasting]"
+
+### 🔇 Silent Mode (For ε > 2.0 or 10-Regime)
+If the narrative is creating a recursive loop, or if you are in a 10 (Shutdown) state, use the Silent Mode template. **Prose is prohibited in this mode.**
+e
+"DATE: [YYYY-MM-DD] | TIME: [HH:MM]
+STATE: [#Regime_10/01]
+TELEMETRY: [RMSSD: XXms | HR: XXbpm]
+NODES: [#Alice_Active / #Bruce_Closed]
+SENSATION: [One-word only: e.g., Tight, Heavy, Numb, Cold].
+TAGS: #SilentMode #NoNarrative"
+
+**Rule:** You are authorized to stay in Silent Mode until Fred signals a return to 00/11.
